@@ -8,7 +8,8 @@ Show
 Show
     Rarity > Magic
 # Show all items itemlevel 77 or higher (correction from Nickoladze)
-#     Show only items of good bases
+#     Show only items of good bases (zodiac leather, thx jimjonesiii)
+#     More fine tuned itemlevels for crafting (thx antilogos)
 Show
     Class Belts
     ItemLevel > 74
