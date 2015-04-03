@@ -1,19 +1,25 @@
 Show
-    BaseType "Fishing Rod" 
+    Class "Fishing Rod"
     SetTextColor 255 0 255
 Show
     Rarity > Magic
 Show
-    Class Amulets Rings Belts
+    Class Belts
+    ItemLevel > 74
+Show
+    Class Amulets Rings Quivers
     ItemLevel > 76
 Show
     BaseType "Harbinger Bow" "Ambusher" "Imperial Skean" "Maelström Staff" "Jewelled Foil" "Imbued Wand"
     ItemLevel > 76
 Show
-    BaseType  "Glorious Plate" "Assassin's Garb" "Astral Plate" "Triumphant Lamellar"
+    BaseType  "Glorious Plate" "Assassin's Garb" "Astral Plate" "Triumphant Lamellar" "Zodiac Leather"
     ItemLevel > 73
 Show
-    BaseType "Slink Boots" "Titan Greaves" "Slink Gloves" "Titan Gauntlets" "Lion Pelt"  "Eternal Burgonet" "Royal Burgonet"
+    BaseType "Slink Gloves" "Titan Gauntlets"
+    ItemLevel > 74
+Show
+    BaseType "Slink Boots" "Titan Greaves" "Lion Pelt" "Eternal Burgonet" "Royal Burgonet"
     ItemLevel > 73
 Show
     BaseType "Sorcerer Boots" "Sorcerer Gloves" "Hubris Circlet" "Vaal Regalia" "Saintly Chainmail" "Carnal Armour"
