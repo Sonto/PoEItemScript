@@ -1,0 +1,43 @@
+Show
+    BaseType "Fishing Rod" 
+    SetTextColor 255 0 255
+Show
+    Rarity > Magic
+Show
+    Class Amulets Rings Belts
+    ItemLevel > 76
+Show
+    BaseType "Harbinger Bow" "Ambusher" "Imperial Skean" "Maelström Staff" "Jewelled Foil" "Imbued Wand"
+    ItemLevel > 76
+Show
+    BaseType  "Glorious Plate" "Assassin's Garb" "Astral Plate" "Triumphant Lamellar"
+    ItemLevel > 73
+Show
+    BaseType "Slink Boots" "Titan Greaves" "Slink Gloves" "Titan Gauntlets" "Lion Pelt"  "Eternal Burgonet" "Royal Burgonet"
+    ItemLevel > 73
+Show
+    BaseType "Sorcerer Boots" "Sorcerer Gloves" "Hubris Circlet" "Vaal Regalia" "Saintly Chainmail" "Carnal Armour"
+    ItemLevel > 77
+Show
+    Class Map Currency Gem "Quest Items"
+Show
+    Quality 20
+Show
+    Sockets 6
+Show
+    LinkedSockets > 4
+Show
+    SocketGroup RGB
+Show
+    BaseType "Gavel" "Rock Breaker" "Stone Hammer"
+    Rarity Normal
+Show
+    BaseType "Gavel" "Rock Breaker" "Stone Hammer"
+    Rarity Magic
+    Quality > 11
+Show
+    Class Flask
+    Quality > 13
+Show
+    BaseType "Sacrificial Garb"
+Hide
