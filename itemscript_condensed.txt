@@ -4,6 +4,9 @@ Show
 Show
     Rarity > Magic
 Show
+    Class Jewel
+    ItemLevel > 66
+Show
     Class Belts
     ItemLevel > 74
 Show

@@ -11,6 +11,9 @@ Show
 #     Show only items of good bases (zodiac leather, thx jimjonesiii)
 #     More fine tuned itemlevels for crafting (thx antilogos)
 Show
+    Class Jewel
+    ItemLevel > 66
+Show
     Class Belts
     ItemLevel > 74
 Show
