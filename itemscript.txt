@@ -13,6 +13,7 @@ Show
 Show
     Class Jewel
     ItemLevel > 66
+	SetBorderColor 128 128 255
 Show
     Class Belts
     ItemLevel > 74
