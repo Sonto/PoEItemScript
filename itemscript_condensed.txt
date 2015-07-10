@@ -29,7 +29,7 @@ Show
     BaseType "Sorcerer Boots" "Sorcerer Gloves" "Hubris Circlet" "Vaal Regalia" "Saintly Chainmail" "Carnal Armour"
     ItemLevel > 77
 Show
-    Class Map Currency Gem "Quest Items"
+    Class Map Currency Gem "Quest Items" "Divination Card"
 Show
     Quality 20
 Show
