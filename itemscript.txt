@@ -41,7 +41,7 @@ Show
 #     clarification provided by negitivefrags
 #     and show quest items (thx Nickoladze)
 Show
-    Class Map Currency Gem "Quest Items"
+    Class Map Currency Gem "Quest Items" "Divination Card"
 # Show quality 20 items (get them scraps, stones, and baubles)
 Show
     Quality 20
